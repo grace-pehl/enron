@@ -1,0 +1,5 @@
+I used the sklearn documentation and the code provided during the Udacity Intro to Machine Learning course.
+Stack Overflow was helpful researching cross validation and feature selection.
+http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm had a very coherent discussion of random forests.
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
